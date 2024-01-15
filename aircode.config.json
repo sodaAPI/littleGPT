@@ -1,0 +1,11 @@
+{
+  "name": "LittleGPT",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "APPID",
+    "SECRET",
+    "KEY"
+  ],
+  "typescript": false
+}
